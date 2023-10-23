@@ -1,4 +1,0 @@
-#define SSID "TARDIS Datacore"
-#define PASSWORD "109245170342"
-#define SERVER_IP "192.168.178.28"
-#define SERVER_PORT 8080
