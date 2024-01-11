@@ -21,7 +21,7 @@ Jedes Blütenblatt besteht aus einem Zahnradteil und dem tatsächlichen Blütenb
 * [Messingdraht](https://www.bauhaus.info/draehte/stabilit-draht/p/10198620?adb_search=messingdraht)
 
 ![Aufbau Bestandteile](img/AufbauBestandteile.png)
-![Messinghaken](img/messinghaken)
+![Messinghaken](img/messinghaken.jpg)
 
 ## Elektronik
 
