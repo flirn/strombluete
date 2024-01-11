@@ -36,6 +36,7 @@ In jeder einzelnen Blume sind 5 Elektronikelemente verbaut. Die Steuerung übern
 * [LiPo-Akku](https://www.berrybase.de/lp-503562-lithium-polymer/lipo-akku-3-7v-1200mah-mit-2-pin-jst-stecker)
 * [Microservo](https://www.berrybase.de/sg92r-micro-servo)
 * [USB-C Ladeplatine](https://www.berrybase.de/ladeplatine-fuer-3-7v-liion/lipo-akkus-mit-ausgang-usb-type-c-buchse-loetpads-1000ma)
+* [Schalter](https://www.ebay.de/itm/183827874396)
 
 
 
